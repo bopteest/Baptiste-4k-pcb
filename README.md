@@ -5,9 +5,13 @@ This repository contains the PCB design files for a 4-key keyboard implemented u
 
 Features
 -Compact 4-key layout for simplicity and ease of understanding.
+
 -Utilizes MX switch design for a reliable and customizable key feel.
+
 -Integrated with a Mega32 microcontroller, programmable using QMK firmware.
+
 -Designed using KiCad, a powerful and open-source PCB design software.
+
 -Minimalist design to focus on core concepts for beginners.
 
 Exploring the Design
